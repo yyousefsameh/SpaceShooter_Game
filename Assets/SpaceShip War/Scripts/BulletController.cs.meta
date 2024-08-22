@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: be558465409c73d4a94fb3aa38791d57
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletAudio: {instanceID: 0}
+  - enemyExplosion: {fileID: 139366, guid: b185c1a9cf067374586d095111b15bd1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
